@@ -16,7 +16,7 @@ export default function StoreMap({ data }: { data: StorePoint[] }) {
       <div className="mb-2 subtle">Stores map</div>
       <MapContainer center={center} zoom={5.5} style={{ height: 500, width: '100%', borderRadius: 16 }}>
         <TileLayer
-          // Light/dark tiles (Carto) — gratuit
+          // Light/dark tiles (Carto) - gratuit
           url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
           attribution='&copy; OpenStreetMap & CartoDB'
         />
