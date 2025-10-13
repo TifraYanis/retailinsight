@@ -24,15 +24,10 @@
 
 ## 🖼️ Screenshots
 
-- `docs/screenshots/dashboard.png` (main dashboard)
-- `docs/screenshots/insights.png` (insights page)
-- `docs/screenshots/map.png` (Leaflet map)
 
-```md
 ![Dashboard](docs/screenshots/dashboard.png)
 ![Insights](docs/screenshots/insights.png)
 ![Stores Map](docs/screenshots/map.png)
-```
 
 ---
 
