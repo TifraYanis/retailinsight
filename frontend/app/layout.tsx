@@ -36,7 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                       Sales <span className="text-emerald-500">Forecasting</span> Dashboard
                     </div>
                     <div className="text-sm text-slate-600 dark:text-slate-400">
-                      RetailInsight — Next.js + FastAPI
+                      RetailInsight - Next.js + FastAPI
                     </div>
                   </div>
                   <div className="flex items-center gap-2">
