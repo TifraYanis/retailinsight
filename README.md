@@ -1,4 +1,4 @@
-<h1 align="center">🛍️ RetailInsight – Sales Forecasting, Insights & Store Map</h1>
+<h1 align="center"> RetailInsight – Sales Forecasting, Insights & Store Map</h1>
 
 <p align="center">
   <b>FastAPI (Python) + Next.js (TypeScript)</b> - forecast & visualize daily sales per store & item with KPIs, business insights and a Leaflet store map.
@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 **RetailInsight** is a *product-style data science app* built to look and feel like a real analytics tool used in retail:
 - Explore **daily sales** per store & item.
@@ -22,7 +22,7 @@
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 
 ![Dashboard](docs/screenshots/dashboard.png)
@@ -67,7 +67,7 @@ npm run dev
 
 ---
 
-## 🧱 Tech Stack & Choices
+## Tech Stack & Choices
 
 | Layer | Choice | Why |
 |------|--------|-----|
@@ -80,7 +80,7 @@ npm run dev
 
 ---
 
-## 🧭 How to Use
+## How to Use
 1. Pick **Store** and **Item** on the Dashboard → read KPIs & real‑time charts.  
 2. Go to **Insights** → top performers, correlation price↔sales, promo uplift, monthly trend.  
 3. Open **Stores Map** → see volumes (size) and short‑term trend (color) per store.  
@@ -127,7 +127,7 @@ import 'leaflet/dist/leaflet.css';
 
 ---
 
-## 🚀 Roadmap
+## Roadmap
 - Model comparison (**Prophet / LightGBM**) + MAPE/sMAPE backtests  
 - Store clusters & cohort analysis  
 - Export CSV / PDF report  
